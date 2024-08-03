@@ -1,4 +1,12 @@
 payload:
+  - '+.applecensorship.com'
+  - '+.freebrowser.org'
+  - '+.freewechat.com'
+  - '+.freeweibo.com'
+  - '+.freezhihu.org'
+  - '+.greatfire.org'
+  - '+.pao-pao.net'
+  - '+.wikiunblocked.org'
   - '+.000webhost.com'
   - '+.030buy.com'
   - '+.0rz.tw'
