@@ -2,7 +2,7 @@
 
 要想使用本项目的规则集，只需要在 Clash 配置文件中添加如下 `rule-providers` 和 `rules`。
 
-#### Rule Providers 配置方式
+#### 配置方式
 ```yaml
 rule-providers:
   reject:
