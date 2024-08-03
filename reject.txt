@@ -1,1 +1,2 @@
 payload:
+  - '+.reject-example.com'
