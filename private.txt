@@ -38,7 +38,6 @@ payload:
   - '+.networkcheck.kde.org'
   - '+.detectportal.firefox.com'
   - '+.cp.cloudflare.com'
-  - '+.connectivitycheck.gstatic.com'
   - '+.captive.apple.com'
   - '+.127.in-addr.arpa'
   - '+.ping.archlinux.org'
