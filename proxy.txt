@@ -2064,8 +2064,6 @@ payload:
   - '+.aporntv.com'
   - '+.apornvideo.com'
   - '+.app-dynamics.com'
-  - '+.app-measurement-cn.com'
-  - '+.app-measurement.com'
   - '+.app-store.wang'
   - '+.app.box.com'
   - '+.app.evozi.com'
